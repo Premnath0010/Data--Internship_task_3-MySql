@@ -1,4 +1,4 @@
-# Data--Internship_task_3-MySql
+# Data_Analyst_Internship_task_3-MySql
 
 # **Objective**
 The goal of this project is to demonstrate proficiency in **SQL data analysis** techniques using a structured **E-commerce dataset**. This includes querying, aggregating, joining, creating views, using subqueries, and optimizing queries.
